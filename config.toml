@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Author"
     title = "Miguel Acevedo"
     # description = "..."
-    authorimage = "img/miguel.jpeg"
+    authorimage = "//img/miguel.jpeg"
     dateformat = "Jan 2, 2020"
 
     # https://highlightjs.org
