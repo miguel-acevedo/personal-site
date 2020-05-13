@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://miguelace.com/"
 languageCode = "en"
 
 title = "Miguel Acevedo"
@@ -20,7 +20,8 @@ theme = "hyde-hyde"
     title = "Miguel Acevedo"
     # description = "..."
     authorimage = "/miguel.jpeg"
-    dateformat = "Jan 2, 2020"
+    dateformat = "Jan 2, 2006"
+    mainSections = ["portfolio"]
 
     # https://highlightjs.org
     highlightjs = true
