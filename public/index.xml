@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Acevedo</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Miguel Acevedo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schedule Helper</title>
+      <link>https://example.com/portfolio/schedulehelper/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/portfolio/schedulehelper/</guid>
+      <description>Chrome Extension that helps UC Davis students build their schedules by highlighting conflicts and displaying professor ratings. Over 14,000 monthly active users (40% of students).
+View: https://getschedulehelper.com/</description>
+    </item>
+    
+  </channel>
+</rss>
