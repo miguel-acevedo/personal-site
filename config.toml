@@ -21,7 +21,7 @@ theme = "hyde-hyde"
     # description = "..."
     authorimage = "/miguel.jpeg"
     dateformat = "Jan 2, 2006"
-    mainSections = ["portfolio"]
+    mainSections = ["portfolio", "posts"]
 
     # https://highlightjs.org
     highlightjs = true
@@ -45,11 +45,11 @@ theme = "hyde-hyde"
     # gravatar = "mhacevedo@ucdavis.edu"
 
 ## Main Menu
-#[[menu.main]]
-#    name = "Posts"
-#    weight = 100
-#    identifier = "posts"
-#    url = "/posts/"
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
 [[menu.main]]
     name = "Portfolio"
     identifier = "portfolio"
@@ -60,3 +60,6 @@ theme = "hyde-hyde"
 #    identifier = "about"
 #    weight = 300
 #    url = "/about/"
+
+# sidebar color: #1b1b1b
+# background-color: #fdfdfd
