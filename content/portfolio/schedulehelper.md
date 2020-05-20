@@ -8,6 +8,6 @@ layout: 'portfolio'
 featured: true
 ---
 
-Chrome Extension that helps UC Davis students build their schedules by highlighting conflicts and displaying professor ratings. Over 14,000 monthly active users (40% of students).
+Chrome Extension that helps UC Davis students build their schedules by highlighting conflicts and displaying professor ratings. Over 16,000 monthly active users (50% of students).
 
 View: https://getschedulehelper.com/
