@@ -8,7 +8,7 @@ layout: 'portfolio'
 featured: true
 ---
 
-Much of computer science learning is spent trying to visualize different concepts. Teachers trying to tranfer visuals from their brain to the student. What if there was a way to provide quick and dynamic visuals which would reduce the friction within learning? I built a tool that allows one to write the format of an array or a graph within markdown that will be rendered as a webpage. 
+Much of computer science learning is spent trying to visualize different concepts. Teachers trying to transfer visuals from their brain to the student. What if there was a way to provide quick and dynamic visuals which would reduce the friction within learning? I built a tool that allows one to write the format of an array or a graph within markdown that will be rendered as a webpage. 
 
 Built in Next.js using mdx with jsx integrations.
 
